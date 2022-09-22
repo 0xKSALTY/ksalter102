@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksalter102
 - 👀 I’m interested in becoming a Full stack developer who specialises in Python.
-- 🌱 I’m currently learning Pythnn in depth along with web dev including HTML, CSS and JS. 
+- 🌱 I’m currently learning Python in depth along with web dev including HTML, CSS and JS. 
 - 📫 How to reach me on my LinkedIn.
 
 <!---
